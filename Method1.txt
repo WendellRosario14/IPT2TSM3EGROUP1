@@ -1,1 +1,7 @@
-samp
+static void Method1() {
+    System.out.println("IPT2 TSM 3E CASE STUDY GROUP 1 ");
+       System.out.println();
+     System.out.println("MEMBERS THAT HAVE 2 METHODS");
+    System.out.println("Barsolaso, Juland");
+  }
+  
