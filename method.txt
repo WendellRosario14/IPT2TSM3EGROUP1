@@ -1,1 +1,16 @@
-MyMethod
+package method;
+
+public class Method {
+  static void myMethod1() {
+    System.out.println("Del Rosario, Juzzel Mae P.");
+  }
+  static void myMethod2() {
+    System.out.println("BSIT TSM3E GROUP 1");
+  }
+
+  public static void main(String[] args) {
+    myMethod1();
+    myMethod2();
+ }
+}
+
