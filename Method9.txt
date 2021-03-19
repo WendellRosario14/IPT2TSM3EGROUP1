@@ -1,0 +1,4 @@
+static void Methods9() {
+       System.out.println("MEMBERS THAT HAVE 1 METHOD");
+    System.out.println("Madarang, Kurt Aian");
+  }
