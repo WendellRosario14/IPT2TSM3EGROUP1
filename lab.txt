@@ -1,1 +1,19 @@
-Del Rosario Juzzel Mae
+import java.util.Scanner;
+
+ public class OddEven{
+ public static void main(String[] args){
+ 
+ Scanner dataIn = new Scanner (System.in);
+ int num1, mod;
+ 
+ System.out.println("Enter Number:");
+ num1 =dataIn.nextInt();
+ 
+  if(num1%2==1){
+	System.out.println("Odd");
+	}else if (num1%2==0){
+	System.out.println("Even");
+	}
+	}
+	}
+ 
