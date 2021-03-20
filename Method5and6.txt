@@ -1,1 +1,11 @@
+// Rosario Domingo
+
+static void Method5()
+{
+System.out.println("Domingo ,Rosario");
+}
+static void Method6()
+{
+System.out.println("MEMBER");
+}
 
