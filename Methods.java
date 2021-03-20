@@ -50,7 +50,7 @@ static void Method9() {
   
   //PATRICK JERREL LIMOS
   static void Method11() {
-    System.out.println("Limos, Patrick Laurence");
+    System.out.println("Limos, Patrick Jerrel");
   }
   
   //PETER JANS ANGELO ALVAREZ
