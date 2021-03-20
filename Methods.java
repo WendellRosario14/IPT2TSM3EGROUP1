@@ -16,7 +16,7 @@ public class Methods {
    //JUZZEL MAE DEL ROSARIO
 static void Method3() {
     System.out.println("Del Rosario, Juzzel Mae P.");
-  }
+}
   static void Method4() {
     System.out.println("MEMBER");
   }
