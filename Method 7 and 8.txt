@@ -1,0 +1,8 @@
+//WENDELL ROSARIO
+static void Method7() {
+    System.out.println("Rosario, Wendell");
+  }
+  static void Method8() {
+    System.out.println("MEMBER");
+       System.out.println();
+  }
