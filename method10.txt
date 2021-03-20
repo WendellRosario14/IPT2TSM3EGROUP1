@@ -1,1 +1,9 @@
-method10
+public class Methods {
+	//ALBERT LAURENCE DELA CRUZ
+  static void Method10() {
+    System.out.println("Dela Cruz, Albert Laurence");
+  }
+   public static void main(String[] args) {
+    Method10();
+}
+}
