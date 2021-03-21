@@ -1,1 +1,20 @@
+//PETER JANS ANGELO ALVAREZ//
+static void Method12() {
+	System.out.prinln("Alvarez, Peter Jans Angelo");
+}
 
+public static void main(String[]args) {
+	Method1();
+	Method2();
+	Method3();
+	Method4();
+	Method5();
+	Method6();
+	Method7();
+	Method8();
+	Method9();
+	Method10();
+	Method11();
+	Method12();
+ }
+}
